@@ -1,6 +1,6 @@
 #!/bin/bash
 # traceMap.sh
-# Zac Henderson
+# Z. Henderson
 
 echo "enter your destination (ex: www.gov.za): "
 read hostn
